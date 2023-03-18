@@ -1,1 +1,6 @@
-this is new
+
+What is the command to setup your Git username:
+git config --global user.name "yourName" 
+example
+git config --global user.name "etechconsultingllc"
+
