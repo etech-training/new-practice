@@ -1,1 +1,10 @@
-this is new
+
+
+What is the command to setup your Git username: 
+example
+git config --global user.name "etechconsultingllc"
+We are going to see: 
+what is github
+what is an organisation in github
+what is a repository in github
+
